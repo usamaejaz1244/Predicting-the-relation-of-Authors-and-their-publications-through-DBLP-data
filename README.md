@@ -1,4 +1,4 @@
-# Predicting-the-relation-of-Authors-and-their-publications-through-DBLP-data
+# Predicting-the-relation-of-Authors-and-their-publications-using-DBLP-data
 
 
 This is an Electron app. To run this app, follow below steps.
