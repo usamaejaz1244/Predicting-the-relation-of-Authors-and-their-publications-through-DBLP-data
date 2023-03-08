@@ -1,0 +1,7 @@
+The Predicting the Relation of Authors and their Publications using DBLP Data project aims to develop a machine learning model that can predict the 
+relationship between authors and their publications using data from the DBLP database. The DBLP database is a comprehensive digital library that indexes 
+research publications in the field of computer science. The project will involve parsing the DBLP data, which will include extracting features such as 
+author names, publication titles, and publication dates. The dataset will then be used to train and test the machine learning model, which will employ 
+advanced algorithms such as network analysis to predict the relationships between authors and their publications. The outcome of this project will be a 
+highly accurate and reliable model that can be utilized to predict the relationship between authors and their publications in various fields of research. 
+The project is developed using Python and popular machine learning libraries such as Scikit-learn.
